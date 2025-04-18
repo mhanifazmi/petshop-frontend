@@ -6,7 +6,7 @@
 
    ```bash
    git clone https://github.com/mhanifazmi/petshop-frontend.git
-   cd your-vue-project
+   cd petshop-frontend
 2. **Install dependencies**
     
     ```bash
