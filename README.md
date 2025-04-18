@@ -31,3 +31,12 @@
     VITE_API_URL=https://your-api-url.com
     VUE_APP_API_URL=https://your-api-url.com
     VUE_APP_ENV=development
+
+## Admin Credential
+
+1. Access the admin panel using the following credentials:
+
+    ```bash
+    Route: {{ your-url.test }}/admin
+    Username: superadmin@example.com
+    Password: 12341234
